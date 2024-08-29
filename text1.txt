@@ -1,1 +1,1 @@
-This is my first demo file for github
+This is my first demo file for github session1, in second session we will talk about git actions. 
